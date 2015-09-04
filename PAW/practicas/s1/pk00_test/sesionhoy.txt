@@ -1,0 +1,29 @@
+0.1 * 0.2
+typeof[]
+typeof function saludar[][]
+typeof function saludar()[]
+typeof function saludar[]{}
+typeof function saludar(){}
+parseInt(3.6768)
+parseInt("235")
+5*8
+3/4
+"hola" + " mundo"
+Math.pow(2,3)
+{}
+var a = {}
+typeof a
+var mochila = {"marca":"Samsonite", color:"Negra" );
+typeof mochila
+var mochila = ("marca":"Samsonite", color:"Negra" );
+var mochila = ["marca":"Samsonite", color:"Negra" ];
+var mochila = {"marca":"Samsonite", color:"Negra" };
+typeof mochila.color
+var mochila = {"marca":"Samsonite", "color":"Negra" };
+typeof mochila.color
+var mochila = {
+"marca" : " sam",
+color : "negro"
+};
+mochila.color
+mochila.marca

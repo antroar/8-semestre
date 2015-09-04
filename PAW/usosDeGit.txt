@@ -1,0 +1,22 @@
+git init // crea repositorio
+dir /A:H // muestra archivos ocultos
+git config --global user.name "antoar" // da de alta una credencial
+git config --global user.email "antu_8889@hotmail.com"
+git status
+
+git add --all
+git status
+git commit -m "iniciando el primer repositorio con 5 practicas iniciales del S1"
+git log // muestra todos los commit
+git remote add origin //url
+
+git pull origin master // jala el repositorio
+
+git push -u origin master
+usuario de git
+password
+
+----bajar repositorio---
+git clone //url
+// borrar directorio... rmdir /s .git // borra un directorio.
+

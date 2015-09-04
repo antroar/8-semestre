@@ -1,0 +1,42 @@
+para salir de node
+ctrl + c
+.exit
+ctrl + d
+para iniciar con cmd
+
+node 
+
+chrome 
+ctrl shift j abre consola en chrome
+
+
+
+.load ./mimensaje.js
+
+
+saludar("mensaje")
+
+modo estricto
+
+4=== '4'
+
+4 == '4'
+
+typeof ' ' devuelve el tipo de valor
+
+typeof(process.argv)
+MDN javascript (pagina web)
+
+objeto var mochila={nombre:"string", marca:"nombre"};
+.save ./sesionhoy.txt
+
+cuenta de io es con github
+
+ctrl shift p
+para comandos rapido en visual coda
+visual code ctrl K + C comenta codigo
+ctrl K + U descomenta
+
+
+para parsear
+parseInt
