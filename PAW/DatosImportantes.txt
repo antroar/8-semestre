@@ -40,3 +40,22 @@ ctrl K + U descomenta
 
 para parsear
 parseInt
+
+http: es un protocolo de informacion
+host localizacion del servidor donde se encuentra el recurso
+path camino donde se encuentra el recurso dentro del servidor
+google.com.mx/search?q=itgam
+port: acceso digital a la entrada a la computadora
+
+200 conexion exitosa
+300 el documento esta en otro ligar
+400 no encontro
+500 problemas con el servidor.
+
+get nos permite tener una peticion
+post envia un recurso
+put actualiza un recurso
+delete borra un recurso
+head busca metadatos
+option pide todos los verbos que soporta el server
+
