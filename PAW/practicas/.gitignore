@@ -1,0 +1,3 @@
+# Archivo que significa que rutas ignorara mi repositorio
+# Ruta donde se suelen guardar los paquetes externos (librerias auxiliares)
+ node_modules
